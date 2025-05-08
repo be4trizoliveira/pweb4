@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #b76e79;
+    color: gray;
+    background-size: cover;
+}
+p{
+    font-weight: 700
+}
+form{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.perfil{
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 999px;
+}
+a:hover {
+    background-color: #f6c8c7;
+    font-size: 18px;
+}
